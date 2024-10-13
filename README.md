@@ -1,67 +1,75 @@
-<div align="center">
-  <img height="150" src="data:image/png;base64,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"  />
-</div>
-
-###
+<h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/avinash-sharma-1a4251244/" height="25" alt="linkedin logo"  />
-  <img src="https://www.linkedin.com/in/avinash-sharma-1a4251244/" height="25" alt="youtube logo"  />
-  <img src="https://www.linkedin.com/in/avinash-sharma-1a4251244/" height="25" alt="twitter logo"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsharma01" /> </p>
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsharma01" alt="avinashsharma01" /></a> </p>
+
+  <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Avinash from  Bihar..<br><br>- 🔭 I’m working as FullStack engineer<br>- 📚 I'm currently learning MERN and DSA ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="center">
+  <p>- 🔭 I’m currently working on <strong>Mentor Connect project</strong></p>
+  <p>- 🌱 I’m currently learning <strong>React Native | DSA</strong></p>
+  <p>- 👯 I’m looking to collaborate on <strong>AI project with...</strong></p>
+  <p>- 🤝 I’m looking for help with <strong>Something new</strong></p>
+  <p>- 💬 Ask me about <strong>React, MERN</strong></p>
+  <p>- 📫 How to reach me: <strong>Avinashsharma31384@gmail.com</strong></p>
+  <p>- ⚡ Fun fact: <strong>I am not funny</strong></p>
 </div>
 
-###
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/avinash-sharma-1a4251244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://instagram.com/avinash_sharma01010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/avinash_sharma01010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  </p>
+</div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <p>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  </p>
+</div>
 
-###
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashsharma01&show_icons=true&locale=en&layout=compact" alt="avinashsharma01" /></p>
 
-<h3 align="left">🔥   My Stats :</h3>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashsharma01&show_icons=true&locale=en" alt="avinashsharma01" /></p>
 
-###
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsharma01&" alt="avinashsharma01" /></p>
+</div>
