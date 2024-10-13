@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsharma01" /> </p>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsharma01" alt="avinashsharma01" /></a> </p>
-
-  <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-</div>
 
 <div align="center">
   <p>- 🔭 I’m currently working on <strong>Mentor Connect project</strong></p>
@@ -17,15 +11,6 @@
   <p>- 💬 Ask me about <strong>React, MERN</strong></p>
   <p>- 📫 How to reach me: <strong>Avinashsharma31384@gmail.com</strong></p>
   <p>- ⚡ Fun fact: <strong>I am not funny</strong></p>
-</div>
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/avinash-sharma-1a4251244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://instagram.com/avinash_sharma01010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/avinash_sharma01010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  </p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -64,6 +49,25 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   </p>
+</div>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/avinash-sharma-1a4251244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://instagram.com/avinash_sharma01010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/avinash_sharma01010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  </p>
+</div>
+
+
+
+<div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsharma01" /> </p>
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsharma01" alt="avinashsharma01" /></a> </p>
+
+  <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 </div>
 
 <div align="center">
