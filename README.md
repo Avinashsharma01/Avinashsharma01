@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
+<hr/>
+<div> 
+  <p>
+
+I'm Avinash Sharma, a passionate Full Stack Developer from India, skilled in both front-end and back-end technologies. I specialize in building dynamic and responsive web applications using modern frameworks like React and Node.js. Currently, I am working on the Mentor Connect project, focusing on enhancing user experiences and solving complex problems through innovative solutions. Always eager to learn, I’m currently diving into React Native and exploring the world of Data Structures and Algorithms (DSA). When I'm not coding, you can find me collaborating on exciting AI projects or enjoying a good book. Connect with me on LinkedIn or Instagram!
+
+</p>
+</div>
+
+<hr/>
 
 
 <div align="center">
@@ -14,6 +24,8 @@
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<hr/>
 <div align="center">
   <p>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -50,6 +62,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   </p>
 </div>
+
+<hr/>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
