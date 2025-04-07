@@ -21,7 +21,7 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
   <p>- 🤝 I'm looking for help with <strong>Something new</strong></p>
   <p>- 💬 Ask me about <strong>React, MERN</strong></p>
   <p>- 📫 How to reach me: <strong>Avinashsharma31384@gmail.com</strong></p>
-  <p>- ⚡ Fun fact: <strong>I am not funny</strong></p>
+  <p>- ⚡ Fun fact: I write bugs faster than I fix them (but I’m working on it)</strong></p>
 </div>
 
 ---
@@ -47,7 +47,8 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Firebase
+](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
