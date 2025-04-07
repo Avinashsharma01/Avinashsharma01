@@ -16,7 +16,7 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
 
 <div align="center">
   <p>- 🔭 I'm currently working on <strong>innovative web applications</strong></p>
-  <p>- 🌱 I'm currently learning <strong>React Native | DSA</strong></p>
+  <p>- 🌱 I'm currently learning <strong>React Native | DSA With Java | DevOps | Cloud Computing</strong></p>
   <p>- 👯 I'm looking to collaborate on <strong>AI projects</strong></p>
   <p>- 🤝 I'm looking for help with <strong>Something new</strong></p>
   <p>- 💬 Ask me about <strong>React, MERN</strong></p>
