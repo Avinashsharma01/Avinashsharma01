@@ -81,7 +81,9 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Avinashsharma01&theme=react-dark" alt="Contribution Graph" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Avinashsharma01&theme=react-dark" alt="Contribution Graph" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashsharma01&theme=react-dark" alt="Contribution Graph" />
+
 </div>
 
 ---
