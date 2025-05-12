@@ -13,6 +13,32 @@ I'm Avinash Sharma, a passionate Full Stack Developer from India with expertise 
 I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exploring new technologies that enhance user experiences. When I'm not writing code, you can find me collaborating on open-source projects, participating in hackathons, or deepening my knowledge of algorithms and system design. I believe in continuous learning and pushing the boundaries of what's possible with technology.
 
 ---
+### 🔗 Connect with me
+<div align="center">
+  <a href="https://linkedin.com/in/avinash-sharma-1a4251244/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/avinash_sharma01010/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/avinash_sharma01010/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:Avinashsharma31384@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+   <a href="https://x.com/Avinas01101000" target="_blank">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://discord.gg/MadMZaqJ" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.threads.net/@avinash_sharma01010" target="_blank">
+    <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+</div>
+
+---
 
 <div align="center">
   <p>- 🔭 I'm currently working on <strong>innovative web applications</strong></p>
@@ -25,6 +51,7 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
 </div>
 
 ---
+
 
 ### 🛠️ Languages and Tools
 
@@ -90,9 +117,9 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
 
 </div>
 
----
 
-### 🔗 Connect with me
+
+
 
 <!-- 
 <div align="center">
@@ -111,29 +138,7 @@ I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exp
 </div>
 --> 
 
-<div align="center">
-  <a href="https://linkedin.com/in/avinash-sharma-1a4251244/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/avinash_sharma01010/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://instagram.com/avinash_sharma01010/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:Avinashsharma31384@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-   <a href="https://x.com/Avinas01101000" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://discord.gg/MadMZaqJ" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.threads.net/@avinash_sharma01010" target="_blank">
-    <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-</div>
+
 
 ---
 
