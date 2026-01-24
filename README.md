@@ -84,11 +84,12 @@ class AvinashSharma {
 <br/>
 
 - 🏢 **Currently:** React Native Developer Intern at **EpiCircle** — building the "Trash to Treasure" app for circular economy
+- ⚡ **Stack:** React Native, Node.js, Express, PostgreSQL, MongoDB, AWS, Git
 - 🎓 **Education:** Final year **B.Tech in Information Technology** at Swami Vivekanand Subharti University
 - 🏆 **Previously:** Led a team of interns at **Ideovent Technologies**, shipped 2 production-ready full-stack apps
-- 🛠️ **Built:** Institute ERP System handling **Fee Management, Attendance & RBAC** for 3 user roles
+- 🛠️ **Built:** Institute ERP System handling **Fee Management, Attendance & RBAC** for 3 user roles ([Demo](#))
 - 📜 **Certified:** NPTEL certifications in **Java, DSA & Cloud Computing**
-- 💡 **LeetCode:** Solved **135+ DSA problems** — Arrays, Hash Tables, Binary Search, Sorting
+- 💡 **LeetCode:** Solved [**135+ DSA problems**](https://leetcode.com/u/Avinash_Sharma0000) — Arrays, Hash Tables, Binary Search, Sorting
 - 📫 **Contact:** **avinashsharma31384@gmail.com** | **+91 6201693634**
 
 <br clear="both"/>
@@ -180,79 +181,6 @@ graph LR
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔥 Currently Building
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| **♻️ Trash to Treasure** | React Native | Scrap collection app for circular economy — enhancing UI/UX & implementing new features **@ EpiCircle** |
-
-### 🏆 Production-Ready Projects
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-#### 🏫 Institute ERP System
-**Stack:** React (TypeScript) • Node.js • MongoDB  
-**Features:**
-- 🔐 RBAC for 3 user roles (Admin/Teacher/Student)
-- 💰 Fee Management System
-- 📊 Attendance Tracking
-- 📹 Video/Document uploads (Cloudinary + Multer)
-
-</td>
-<td width="50%">
-
-#### 📚 Course Selling Platform
-**Stack:** MERN • JWT • Rate Limiting  
-**Features:**
-- 🎓 E-learning marketplace
-- 🔐 Role-Based Access Control
-- 🛡️ API Rate Limiting & DDoS protection
-- 🔑 Secure JWT authentication
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📝 Academic Notes Manager
-**Stack:** MERN • Cloudinary  
-**Features:**
-- 📚 Centralized academic repository
-- 🔐 RBAC implementation
-- ☁️ Scalable cloud document storage
-- 🔍 Advanced search & filtering
-
-</td>
-<td width="50%">
-
-#### 🐾 Pet Adoption Platform
-**Stack:** React • Firebase • Firestore  
-**Features:**
-- ⚡ Serverless architecture
-- 🔄 Real-time data synchronization
-- 🔐 Firebase Authentication
-- 📝 React Hook Form integration
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🔗 [View All Projects on GitHub](https://github.com/Avinashsharma01?tab=repositories)**
-
-</div>
-
----
-
 ## 💼 Experience Timeline
 
 ```
@@ -264,25 +192,7 @@ graph LR
                               └── Built responsive React/Tailwind frontends + Node.js/Express backends
 ```
 
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 📜 Certification | 🏛️ Issuer | 📅 Year |
-|:-----------------|:----------|:-------:|
-| DSA with Java | NPTEL | 2023 |
-| Java Programming | NPTEL | 2024 |
-| Cloud Computing | NPTEL | 2025 |
-
-</div>
-
-<div align="center">
-  
 **🏆 Quick Stats:** `135+ LeetCode Problems` • `4+ Production Projects` • `2 Internships` • `3 NPTEL Certifications`
-
-</div>
 
 ---
 
@@ -353,3 +263,37 @@ graph LR
 **⚡ Built with passion by Avinash Sharma | Last Updated: January 2026**
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
