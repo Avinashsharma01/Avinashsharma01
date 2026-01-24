@@ -74,7 +74,7 @@ class AvinashSharma {
     mass: "Mern",
     projects: ["Institute ERP", "Course Platform", "Notes Manager"],
     certifications: ["NPTEL Java", "NPTEL DSA", "NPTEL Cloud"],
-    leetcode: "35+ problems solved 🧠"
+    leetcode: "135+ problems solved 🧠"
   };
   
   currentlyBuilding = "Trash to Treasure ♻️ - React Native App";
@@ -88,7 +88,7 @@ class AvinashSharma {
 - 🏆 **Previously:** Led a team of interns at **Ideovent Technologies**, shipped 2 production-ready full-stack apps
 - 🛠️ **Built:** Institute ERP System handling **Fee Management, Attendance & RBAC** for 3 user roles
 - 📜 **Certified:** NPTEL certifications in **Java, DSA & Cloud Computing**
-- 💡 **LeetCode:** Solved **35+ DSA problems** — Arrays, Hash Tables, Binary Search, Sorting
+- 💡 **LeetCode:** Solved **135+ DSA problems** — Arrays, Hash Tables, Binary Search, Sorting
 - 📫 **Contact:** **avinashsharma31384@gmail.com** | **+91 6201693634**
 
 <br clear="both"/>
