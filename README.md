@@ -1,149 +1,355 @@
-# <div align="center">👋 Hi, I'm Avinash Sharma</div>
-
 <div align="center">
-  <h3>A Passionate Full Stack Developer from India</h3>
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avinash%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20Intern%20%40%20EpiCircle%20%7C%20B.Tech%20IT%20'26&descAlignY=52&descSize=16"/>
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Full+Stack+Developer;React+Native+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Developer Roles" />
+  </a>
+
+  <br/>
+  
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=Avinashsharma01&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Avinashsharma01?tab=followers">
+    <img src="https://img.shields.io/github/followers/Avinashsharma01?label=Followers&style=for-the-badge&color=6366F1" alt="GitHub Followers"/>
+  </a>
+  
 </div>
 
----
+<br/>
 
-### 🚀 About Me
-
-I'm Avinash Sharma, a passionate Full Stack Developer from India with expertise in both frontend and backend development. I love building scalable, performant web applications that solve real-world problems. My technical journey is driven by curiosity and a desire to create elegant solutions to complex challenges.
-
-I enjoy working with modern JavaScript frameworks, cloud infrastructure, and exploring new technologies that enhance user experiences. When I'm not writing code, you can find me collaborating on open-source projects, participating in hackathons, or deepening my knowledge of algorithms and system design. I believe in continuous learning and pushing the boundaries of what's possible with technology.
-
----
-### 🔗 Connect with me
+<!-- Connect Section -->
 <div align="center">
   <a href="https://www.linkedin.com/in/avinash-sharma-1a4251244/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Avinashsharma31384@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/Avinas01101000" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-   <a href="https://discord.gg/HgvJBf4B" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.threads.com/@avinash_sharma01010" target="_blank">
-    <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="https://www.instagram.com/avinash_sharma01010/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://discord.gg/HgvJBf4B" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://leetcode.com/u/Avinash_Sharma0000/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://www.instagram.com/avinash_sharma01010/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ### 💡 "Building digital solutions that make a difference, one line of code at a time."
+  
+  <img src="https://img.shields.io/badge/Available_for-Full--Time_Roles-00C853?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graduating-2026-6366F1?style=flat-square&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Meerut,_India-FF6B6B?style=flat-square&logo=google-maps&logoColor=white"/>
+  
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> About Me
+
+<img align="right" alt="Developer" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```typescript
+class AvinashSharma {
+  readonly location = "Meerut, UP, India 🇮🇳";
+  readonly education = "B.Tech IT @ Subharti University '26";
+  
+  currentRole = "React Native Intern @ EpiCircle";
+  previousRole = "Software Dev Intern @ Ideovent Tech";
+  
+  mass = {
+    mass: "Mern",
+    projects: ["Institute ERP", "Course Platform", "Notes Manager"],
+    certifications: ["NPTEL Java", "NPTEL DSA", "NPTEL Cloud"],
+    leetcode: "35+ problems solved 🧠"
+  };
+  
+  currentlyBuilding = "Trash to Treasure ♻️ - React Native App";
+}
+```
+
+<br/>
+
+- 🏢 **Currently:** React Native Developer Intern at **EpiCircle** — building the "Trash to Treasure" app for circular economy
+- 🎓 **Education:** Final year **B.Tech in Information Technology** at Swami Vivekanand Subharti University
+- 🏆 **Previously:** Led a team of interns at **Ideovent Technologies**, shipped 2 production-ready full-stack apps
+- 🛠️ **Built:** Institute ERP System handling **Fee Management, Attendance & RBAC** for 3 user roles
+- 📜 **Certified:** NPTEL certifications in **Java, DSA & Cloud Computing**
+- 💡 **LeetCode:** Solved **35+ DSA problems** — Arrays, Hash Tables, Binary Search, Sorting
+- 📫 **Contact:** **avinashsharma31384@gmail.com** | **+91 6201693634**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img  src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6&theme=dark" alt="Languages"/>
+
+---
+
+### 🎨 Frontend Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,redux,sass&perline=9&theme=dark" alt="Frontend"/>
+
+---
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&perline=7&theme=dark" alt="Backend"/>
+
+---
+
+### 📱 Mobile & DevOps Tools
+
+<img src="https://skillicons.dev/icons?i=react,aws,docker,git,github,linux,figma,postman,vscode&perline=9&theme=dark" alt="Mobile & DevOps"/>
+
 </div>
 
 ---
 
-<div align="center">
-  <p>- 🔭 I'm currently working on <strong>innovative web applications</strong></p>
-  <p>- 🌱 I'm currently learning <strong>React Native | DSA With Java | DevOps | Cloud Computing</strong></p>
-  <p>- 👯 I'm looking to collaborate on <strong>AI projects</strong></p>
-  <p>- 🤝 I'm looking for help with <strong>Something new</strong></p>
-  <p>- 💬 Ask me about <strong>React, MERN</strong></p>
-  <p>- 📫 How to reach me: <strong>Avinashsharma31384@gmail.com</strong></p>
-  <p>- ⚡ Fun fact: I write bugs faster than I fix them (but I’m working on it)</strong></p>
-</div>
-
----
-
-
-### 🛠️ Languages and Tools
+## 🎯 Current Learning Journey
 
 <div align="center">
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+```mermaid
+graph LR
+    A[✅ MERN Stack] --> B[🔄 React Native]
+    B --> C[📚 DSA with Java]
+    C --> D[☁️ Cloud Computing]
+    D --> E[🎯 System Design]
+    E --> F[🚀 DevOps & CI/CD]
+    
+    style A fill:#00C853
+    style B fill:#6366F1
+    style C fill:#FFA116
+    style D fill:#00C853
+    style E fill:#FF6B6B
+    style F fill:#FF6B6B
+```
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-  
-  
+**Current Focus:** `React Native` • `DSA Problem Solving` • `Cloud Architecture` • `System Design Patterns`
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashsharma01&show_icons=true&theme=radical" alt="Avinash's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashsharma01&theme=radical" alt="Avinash's GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashsharma01&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Avinashsharma01&theme=radical&row=1" alt="Avinash's Trophies" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Avinashsharma01&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Avinash Sharma's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashsharma01&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages"/>
 </div>
 
-### 📈 Contribution Graph
+<br/>
 
 <div align="center">
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Avinashsharma01&theme=react-dark" alt="Contribution Graph" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashsharma01&theme=react-dark" alt="Contribution Graph" />
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashsharma01&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=6366F1&background=0D1117" alt="GitHub Streak"/>
 </div>
 
+<br/>
 
-
-
-
-<!-- 
 <div align="center">
-  <a href="https://linkedin.com/in/avinash-sharma-1a4251244/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/avinash_sharma01010/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.leetcode.com/avinash_sharma01010/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:Avinashsharma31384@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinashsharma01&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
---> 
 
+---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashsharma01&custom_title=Avinash's%20Contribution%20Graph&bg_color=0d1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🔥 Currently Building
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| **♻️ Trash to Treasure** | React Native | Scrap collection app for circular economy — enhancing UI/UX & implementing new features **@ EpiCircle** |
+
+### 🏆 Production-Ready Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🏫 Institute ERP System
+**Stack:** React (TypeScript) • Node.js • MongoDB  
+**Features:**
+- 🔐 RBAC for 3 user roles (Admin/Teacher/Student)
+- 💰 Fee Management System
+- 📊 Attendance Tracking
+- 📹 Video/Document uploads (Cloudinary + Multer)
+
+</td>
+<td width="50%">
+
+#### 📚 Course Selling Platform
+**Stack:** MERN • JWT • Rate Limiting  
+**Features:**
+- 🎓 E-learning marketplace
+- 🔐 Role-Based Access Control
+- 🛡️ API Rate Limiting & DDoS protection
+- 🔑 Secure JWT authentication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 📝 Academic Notes Manager
+**Stack:** MERN • Cloudinary  
+**Features:**
+- 📚 Centralized academic repository
+- 🔐 RBAC implementation
+- ☁️ Scalable cloud document storage
+- 🔍 Advanced search & filtering
+
+</td>
+<td width="50%">
+
+#### 🐾 Pet Adoption Platform
+**Stack:** React • Firebase • Firestore  
+**Features:**
+- ⚡ Serverless architecture
+- 🔄 Real-time data synchronization
+- 🔐 Firebase Authentication
+- 📝 React Hook Form integration
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🔗 [View All Projects on GitHub](https://github.com/Avinashsharma01?tab=repositories)**
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+```
+📅 July 2025 - Present    →  🟢 EpiCircle | React Native Developer Intern (Remote)
+                              └── Building "Trash to Treasure" app, implementing scrap collection features
+                              
+📅 June 2025 - Sep 2025   →  🔵 Ideovent Technologies | Software Developer Intern (Remote)  
+                              └── Led team of interns, shipped 2 production-ready full-stack apps
+                              └── Built responsive React/Tailwind frontends + Node.js/Express backends
+```
+
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+| 📜 Certification | 🏛️ Issuer | 📅 Year |
+|:-----------------|:----------|:-------:|
+| DSA with Java | NPTEL | 2023 |
+| Java Programming | NPTEL | 2024 |
+| Cloud Computing | NPTEL | 2025 |
+
+</div>
+
+<div align="center">
+  
+**🏆 Quick Stats:** `135+ LeetCode Problems` • `4+ Production Projects` • `2 Internships` • `3 NPTEL Certifications`
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💼 Open to Full-Time Opportunities (Graduating 2026)
+
+<p>
+  <i>I'm a final-year B.Tech student actively seeking <b>Full-Stack</b> or <b>React Native Developer</b> roles.</i>
+  <br/>
+  <i>If you're building something impactful — let's connect! 🚀</i>
+</p>
+
+| 📧 Email | 📱 Phone | 📍 Location |
+|:--------:|:--------:|:-----------:|
+| [avinashsharma31384@gmail.com](mailto:avinashsharma31384@gmail.com) | +91 6201693634 | Meerut, UP, India |
+  
+<a href="mailto:Avinashsharma31384@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/>
+</a>
+<a href="https://www.linkedin.com/in/avinash-sharma-1a4251244/">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- <div align="center">
+  
+  ### 💭 Random Dev Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+</div> -->
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avinashsharma01&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+  
+### ⭐ If you find my work interesting, consider giving my repos a star!
+  
+<p>
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code_Quality-Clean_&_Documented-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-6366F1?style=for-the-badge"/>
+</p>
 
-> "The only way to do great work is to love what you do." – Steve Jobs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**⚡ Built with passion by Avinash Sharma | Last Updated: January 2026**
+
+</div>
