@@ -72,12 +72,12 @@ class AvinashSharma {
   
   mass = {
     mass: "Mern",
-    projects: ["Institute ERP", "Course Platform", "Notes Manager"],
+    projects: ["ERP", "Course Platform", "Notes Manager"],
     certifications: ["NPTEL Java", "NPTEL DSA", "NPTEL Cloud"],
     leetcode: "135+ problems solved 🧠"
   };
   
-  currentlyBuilding = "Trash to Treasure ♻️ - React Native App";
+  currentlyBuilding = "Trash to Treasure ♻️ - App";
 }
 ```
 
