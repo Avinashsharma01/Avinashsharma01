@@ -126,32 +126,6 @@ class AvinashSharma {
 
 ---
 
-## 🎯 Current Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[✅ MERN Stack] --> B[🔄 React Native]
-    B --> C[📚 DSA with Java]
-    C --> D[☁️ Cloud Computing]
-    D --> E[🎯 System Design]
-    E --> F[🚀 DevOps & CI/CD]
-    
-    style A fill:#00C853
-    style B fill:#6366F1
-    style C fill:#FFA116
-    style D fill:#00C853
-    style E fill:#FF6B6B
-    style F fill:#FF6B6B
-```
-
-**Current Focus:** `React Native` • `DSA Problem Solving` • `Cloud Architecture` • `System Design Patterns`
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
